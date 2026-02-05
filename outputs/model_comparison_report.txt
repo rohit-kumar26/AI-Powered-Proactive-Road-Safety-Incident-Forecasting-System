@@ -1,0 +1,27 @@
+======================================================================
+INCIDENT PREDICTION SYSTEM - MODEL COMPARISON REPORT
+Generated: 2026-02-05 22:22:19
+======================================================================
+
+MODELS EVALUATED:
+1. Logistic Regression (Baseline - Interpretable)
+2. Random Forest (Ensemble - Handles Non-linearity)
+3. Gradient Boosting (Advanced - Sequential Learning)
+
+PERFORMANCE SUMMARY:
+----------------------------------------------------------------------
+Model                     Accuracy     ROC-AUC      Recall (Major) 
+----------------------------------------------------------------------
+Logistic Regression       0.792        0.921        0.970          
+Random Forest             0.889        0.924        0.756          
+Gradient Boosting         0.874        0.954        0.857          
+----------------------------------------------------------------------
+
+RECOMMENDED MODEL: Gradient Boosting
+Reason: Highest ROC-AUC score (0.954)
+
+KEY INSIGHTS:
+- All models benefit from NLP-based data cleaning
+- SMOTE effectively handles class imbalance
+- Tree-based models capture non-linear risk patterns
+- High recall on major incidents ensures safety
