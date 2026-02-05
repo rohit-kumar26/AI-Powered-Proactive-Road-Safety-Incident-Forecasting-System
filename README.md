@@ -254,10 +254,7 @@ Actual Major    24    144    ← 86% correctly identified
 ### Installation
 
 ```bash
-# Clone the repository
-git clone <your-repo-url>
-cd road-safety-prediction
-
+# Clone the repository 
 # Install dependencies
 pip install -r requirements.txt
 ```
