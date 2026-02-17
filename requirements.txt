@@ -7,3 +7,5 @@ seaborn
 faker
 joblib
 jupyter
+
+# All REquired Liberaries are Added 

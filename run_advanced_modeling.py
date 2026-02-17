@@ -1,8 +1,4 @@
-"""
-Advanced Multi-Model Incident Prediction System
-Implements industry best practices: Logistic Regression, Random Forest, 
-Gradient Boosting, and prepares for Bayesian Hierarchical Models
-"""
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
