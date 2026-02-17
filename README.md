@@ -1,4 +1,4 @@
-# 🚗 AI-Powered Proactive Road Safety & Incident Forecasting System new
+# 🚗 AI-Powered Proactive Road Safety & Incident Forecasting System 
 
 <div align="center">
 
